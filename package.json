@@ -8,9 +8,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e",
-    "packagr": "ng-packagr -p ng-package.json"
-  },
+    "e2e": "ng e2e"  },
   "keywords": [
     "angular2",
     "angular 2",
